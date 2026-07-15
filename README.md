@@ -34,8 +34,8 @@ Do Medicaid work requirements affect hospital readmission outcomes?
 
 ### Repository Contents
 
-- `analysis.do` — Complete Stata analysis
-- `Journal_Paper.pdf` — Final research paper
+- `Journal Paper 2025 Spring.do` — Complete Stata analysis
+- `Journal Paper 2025 Spring.pdf` — Final research paper
 
 ### Main Finding
 
